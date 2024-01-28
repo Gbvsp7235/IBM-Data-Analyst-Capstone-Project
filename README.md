@@ -27,9 +27,9 @@ Here, you'll find files showcasing data visualization techniques learned during 
 
 The data analysis directory includes scripts and notebooks demonstrating various analytical methods applied to datasets. This section highlights the ability to draw insights and conclusions from data.
 
-### 4. **Project_Submissions**
+### 9. **IBM Data Analyst Capstone Project**
 
-This directory contains the final project submissions as part of the certification requirements. Each project is in its own subdirectory and includes relevant documentation.
+This directory contains the Capstone Project report submitted as part of the certification requirements.
 
 ## How to Use
 
