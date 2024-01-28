@@ -1,11 +1,11 @@
-# Using Data Analysis for Detecting Credit Card Fraud
+Using Data Analysis for Detecting Credit Card Fraud
 Companies today are employing analytical techniques for the early detection of credit card frauds, a key factor in mitigating fraud damage. The most common type of credit card fraud does not involve the physical stealing of the card, but that of credit card credentials, which are then used for online purchases.
 
 Imagine that you have been hired as a Data Analyst to work in the Credit Card Division of a bank. And your first assignment is to join your team in using data analysis for the early detection and mitigation of credit card fraud.  
 
 In order to prescribe a way forward, that is, suggest what should be done in order for fraud to get detected early on, you need to understand what a fraudulent transaction looks like. And for that you need to start by looking at historical data. 
 
-## Here is a sample data set that captures the credit card transaction details for a few users.
+Here is a sample data set that captures the credit card transaction details for a few users.
 ![Transactions Table](/images/Transactions_Table.jpg "Transactions Table")
 
 Descriptive techniques of analysis, that is, techniques that help you gain an understanding of what happened, include the identification of patterns and anomalies in data. Anomalies signify a variation in a pattern that seems uncharacteristic, or, out of the ordinary. Anomalies may occur for perfectly valid and genuine reasons, but they do warrant an evaluation because they can be a sign of fraudulent activity.  
@@ -33,17 +33,17 @@ Finally, when you arrive at the findings, you will create appropriate visualizat
 
 In the next section you will be asked to answer the following 5 (five) questions based on this case study:
 
-- **Q** List at least 5 (five) data points that are required for the analysis and detection of a credit card fraud. (3 marks)
-- **A** IP Address, User ID, Shipping Address, Transaction Date, Transaction Time, Transaction Value and Units Purchased are the data points required for the analysis and detection of credit card fraud.
+Q : List at least 5 (five) data points that are required for the analysis and detection of a credit card fraud. (3 marks)
+A : IP Address, User ID, Shipping Address, Transaction Date, Transaction Time, Transaction Value and Units Purchased are the data points required for the analysis and detection of credit card fraud.
 
-- **Q** Identify 3 (three) errors/issues that could impact the accuracy of your findings, based on a data table provided. (3 marks)
-- **A** Missing IP Address, Transaction Date in different formats and missing Transaction Value could impact the accuracy of findings.
+Q : Identify 3 (three) errors/issues that could impact the accuracy of your findings, based on a data table provided. (3 marks)
+A : Missing IP Address, Transaction Date in different formats and missing Transaction Value could impact the accuracy of findings.
 
-- **Q** Identify 2 (two) anomalies, or unexpected behaviors, that would lead you to believe the transaction may be suspect, based on a data table provided. (2 marks)
-- **A** Two anomalies that would lead to  believe the transaction may be suspect are Transaction done from different IP Address  and frequent transactions happens in less time with high transaction value.
+Q : Identify 2 (two) anomalies, or unexpected behaviors, that would lead you to believe the transaction may be suspect, based on a data table provided. (2 marks)
+A : Two anomalies that would lead to  believe the transaction may be suspect are Transaction done from different IP Address  and frequent transactions happens in less time with high transaction value.
 
-- **Q** Briefly explain your key take-away from the provided data visualization chart. (1 mark)
-- **A** From Transaction Value per Transaction chart I understood that the users with ID's johnp and ellend have witnessed fraud transaction as there is sudden spike in in their transaction value.
+Q : Briefly explain your key take-away from the provided data visualization chart. (1 mark)
+A : From Transaction Value per Transaction chart I understood that the users with ID's johnp and ellend have witnessed fraud transaction as there is sudden spike in in their transaction value.
 
-- **Q** Identify the type of analysis that you are performing when you are analyzing historical credit card data to understand what a fraudulent transaction looks like. [Hint: The four types of Analytics include: Descriptive, Diagnostic, Predictive, Prescriptive] (1 mark)
-- **A** I will use the Descriptive Analysis and Diagnostic Analysis when analyzing historical credit card data to understand what a fraudulent transaction looks like.
+Q : Identify the type of analysis that you are performing when you are analyzing historical credit card data to understand what a fraudulent transaction looks like. [Hint: The four types of Analytics include: Descriptive, Diagnostic, Predictive, Prescriptive] (1 mark)
+A : I will use the Descriptive Analysis and Diagnostic Analysis when analyzing historical credit card data to understand what a fraudulent transaction looks like.
