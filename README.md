@@ -19,9 +19,9 @@ The repository is organized into the following directories representing courses 
 
 This directory contains assignments,scripts and notebooks related to Using Data Analysis for Detecting Credit Card Fraud. The focus is on analyzing the data for patterns and anomalies by identifying and gathering all data points that can be of relevance to your use case and cleaning data.
 
-### 2. **Data_Visualization**
+### 2. **Excel Basics for Data Analysis**
 
-Here, you'll find files showcasing data visualization techniques learned during the certification program. This includes charts, graphs, and other visual representations of data.
+Here, you'll find files showcasing the Final Assignment related to Data Analysis using Excel. This assignment includes two parts. They are cleanining and Preparing data involving Spell-checks,removing Duplicate Records and empty rows,Using Flash Fill techniques to reduce columns of similar data. Another part is Analyzing data which involves calculations using aggregate functions and analyzing data by creating pivot tables,etc.
 
 ### 3. **Data_Analysis**
 
