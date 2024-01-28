@@ -6,7 +6,7 @@ Imagine that you have been hired as a Data Analyst to work in the Credit Card Di
 In order to prescribe a way forward, that is, suggest what should be done in order for fraud to get detected early on, you need to understand what a fraudulent transaction looks like. And for that you need to start by looking at historical data. 
 
 **Here is a sample data set that captures the credit card transaction details for a few users.**
-[[/images/Transactions_Table.jpg|Transactions_Table]]
+[Transactions Table](/images/Transactions_Table.jpg "Transactions_Table")
 
 Descriptive techniques of analysis, that is, techniques that help you gain an understanding of what happened, include the identification of patterns and anomalies in data. Anomalies signify a variation in a pattern that seems uncharacteristic, or, out of the ordinary. Anomalies may occur for perfectly valid and genuine reasons, but they do warrant an evaluation because they can be a sign of fraudulent activity.  
 
