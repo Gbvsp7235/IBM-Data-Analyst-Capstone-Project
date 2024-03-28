@@ -23,9 +23,11 @@ This directory contains assignments,scripts and notebooks related to Using Data 
 
 Here, you'll find files showcasing the Final Assignment related to Data Analysis using Excel. This assignment includes two parts. They are cleanining and Preparing data involving Spell-checks,removing Duplicate Records and empty rows,Using Flash Fill techniques to reduce columns of similar data. Another part is Analyzing data which involves calculations using aggregate functions and analyzing data by creating pivot tables,etc.
 
-### 3. **Data_Analysis**
+### 3. **Data Visualization and Dashboards with Excel and Cognos**
 
-The data analysis directory includes scripts and notebooks demonstrating various analytical methods applied to datasets. This section highlights the ability to draw insights and conclusions from data.
+Here, you'll find files showcasing the Final Assignment related to Data Visualization and Dashboards with Excel and Cognos. This assignment includes two parts. First part of assignment is to create diffrent charts in excel to solve tasks related to car sales by model dataset and another part of the assgnment is to create sales and services dashboards using IBM Cognos Analytics and export as pdf.
+
+### 4. **Data_Analysis**
 
 ### 9. **IBM Data Analyst Capstone Project**
 
